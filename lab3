@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+ <title>Lab3</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="lab3.css">
+</head>
+<body>  
+    <p>My name is <stong> Jaher Mora</stong>, I am a student at <em>Western Washington University</em>. I enjoy <em> Magic The Gathering, Playing Soccer, Camping, and Video Games</em>.</p>
+    <br>    
+<h2>My favorite foods</h2>
+<ol>
+    <li>pizza</li>
+    <li>pasta</li>
+    <li>chicken</li>
+</ol>
+<hr>
+<h2>Great music</h2>
+<Ul>
+    <li>MF DOOM</li>
+    <li>kid Cudi</li>
+    <li>Pharrell Williams</li>
+</Ul>
+<img src="Pizza.JPG"alt="A solid looking supreme pizza with a bite taken" width="300">
+
+<p class="copyright">
+    &copy:Copyright 2026.Jaher Mora
+</p>
+</body>
+</html>
+body{
+    background-color: rgb(167, 116, 216);
+    font-family:'Times New Roman', Times, serif;
+}
+ h1,h2,h3,h4,h5,h6{
+     color:black;
+ }
+  
+ P{
+     font-size:15px;line-height:2;
+  }
+   
+ stong{
+     font-weight:bolf;
+ }
+
+ em{
+     font-style: italic;
+ }
+
+ ol,ul{
+     padding-right:20px;
+ }
+ hr{
+     border: none;
+      border-color: rgb(244, 245, 245);
+      border-top:3px solid rgb(245, 248, 247);
+ }
+ img{       
+     max-width:100%;
+      height: auto;
+ }
+ .copyright{ 
+     font-style:oblique;
+     font-size:small;
+ }
