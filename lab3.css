@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(167, 116, 216);
+    font-family:'Times New Roman', Times, serif;
+}
+ h1,h2,h3,h4,h5,h6{
+     color:black;
+ }
+  
+ P{
+     font-size:15px;line-height:2;
+  }
+   
+ stong{
+     font-weight:bolf;
+ }
+
+ em{
+     font-style: italic;
+ }
+
+ ol,ul{
+     padding-right:20px;
+ }
+ hr{
+     border: none;
+      border-color: rgb(244, 245, 245);
+      border-top:3px solid rgb(245, 248, 247);
+ }
+ img{       
+     max-width:100%;
+      height: auto;
+ }
+ .copyright{ 
+     font-style:oblique;
+     font-size:small;
+ }
